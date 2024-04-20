@@ -1,0 +1,3 @@
+[submodule "WMC"]
+	path = WMC
+	url = https://gitlab.com/htl-villach/informatik/2023-2bhif/wmc/WINKLER.git
